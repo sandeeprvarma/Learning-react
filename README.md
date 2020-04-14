@@ -1,3 +1,3 @@
 # Learning-react
 
-This repo conatins I am building to learn react.
+This repo conatins small task to learn react.
